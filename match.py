@@ -3,6 +3,8 @@
 #################################
 #Deu Macht !!!!
 
+#Explicando o Código
+
 def add_cand(): 
 
     sair = "sim" 
